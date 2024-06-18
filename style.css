@@ -149,9 +149,7 @@ h6 {
 }
 
 .image1 {
-  width: 400px;
   height: auto;
-  margin: 5px 20px 20px 40px;
   border: 1px #77a7b0 solid;
   border-radius: 4px;
   padding: 100px 20px 100px 20px;
@@ -159,9 +157,7 @@ h6 {
 }
 
 .image2 {
-  width: 400px;
   height: auto;
-  margin: 5px 20px 20px 40px;
   border: 1px #77a7b0 solid;
   border-radius: 4px;
   padding: 100px 20px 100px 20px;
