@@ -1,0 +1,185 @@
+body {
+  background-color: #e5f2f0;
+}
+h1 {
+  font-size: 72px;
+  margin: 0px;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+}
+
+.intro {
+  padding-top: 50px;
+}
+
+h2 {
+  margin: 0px;
+  font-size: 36px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+  padding-top: 50px;
+}
+
+p {
+  font-size: 19px;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+  text-align: justify;
+  padding-bottom: 40px;
+}
+
+h3 {
+  font-size: 60px;
+  margin: 0px;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+}
+
+h6 {
+  font-size: 20px;
+  margin: 0px;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: black;
+}
+
+.navigation-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  color: black;
+}
+
+.pro1 {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+  border: 1px #2b6670 solid;
+  background-color: #2b6670;
+  border-radius: 10px;
+  padding: 15px 10px;
+}
+
+.pro2 {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+  border: 1px #2b6670 solid;
+  background-color: #2b6670;
+  border-radius: 10px;
+  padding: 15px 10px;
+}
+
+.primary {
+  margin-right: 10px;
+  font-size: 16px;
+  text-decoration: none;
+  color: white;
+  border: 1px #2b6670 solid;
+  background-color: #2b6670;
+  border-radius: 10px;
+  padding: 15px 10px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  box-shadow: 11px 9px 14px 2px rgba(0, 0, 0, 0.1);
+}
+
+.secondary {
+  margin-left: 10px;
+  text-decoration: none;
+  color: #2b6670;
+  font-size: 16px;
+  border: 1px #2b6670 solid;
+  border-radius: 10px;
+  padding: 15px 10px;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #2b6670;
+}
+
+.image1 {
+  width: 500px;
+  height: auto;
+  margin: 5px 20px 20px 40px;
+  border: 1px #77a7b0 solid;
+  border-radius: 4px;
+  padding: 100px 20px 100px 20px;
+  background-color: #d0eae6;
+}
+
+.image2 {
+  width: 500px;
+  height: auto;
+  margin: 5px 20px 20px 40px;
+  border: 1px #77a7b0 solid;
+  border-radius: 4px;
+  padding: 100px 20px 100px 20px;
+  background-color: #d0eae6;
+}
+
+a.primary:hover {
+  transition: ease-out 250ms;
+  background-color: #e5f2f0;
+  color: #2b6670;
+}
+
+a.pro1:hover {
+  background-color: #e5f2f0;
+  color: #2b6670;
+  transition: ease-out 250ms;
+}
+
+a.pro2:hover {
+  background-color: #e5f2f0;
+  color: #2b6670;
+  transition: ease-out 250ms;
+}
+
+.image {
+  padding: 5px 50px 5px 50px;
+}
+
+.image-2 {
+  padding: 5px 50px 5px 50px;
+}
+
+.navbar {
+  background-color: #e5f2f0;
+  border-bottom: 1px #77a7b0 dashed;
+}
+
+.nav-link,
+.navbar-brand {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}

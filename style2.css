@@ -1,0 +1,92 @@
+body {
+  background-color: #e5f2f0;
+}
+
+h1 {
+  font-size: 72px;
+  margin: 0px;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: black;
+}
+
+img {
+  object-fit: cover;
+  width: 400px;
+  height: auto;
+}
+
+h5 {
+  font-size: 24px;
+  margin: 0px;
+  text-align: center;
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: black;
+}
+p {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  width: 900px;
+  margin: 0 auto;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+.img1,
+.img2 {
+  border: 1px #77a7b0 solid;
+  border-radius: 4px;
+  padding: 10px;
+  background-color: #d0eae6;
+  box-shadow: 10px 8px 23px 7px rgba(0, 0, 0, 0.2);
+}
+
+.img1 {
+  margin-left: 110px;
+  margin-top: 10px;
+}
+
+.contact {
+  font-size: 60px;
+  padding-top: 50px;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  padding-bottom: 50px;
+  margin: 0 auto;
+  display: block;
+  width: 200px;
+  font-size: 20px;
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+.link:hover {
+  color: #2b6670;
+}
+
+.navbar {
+  background-color: #e5f2f0;
+  border-bottom: 1px #77a7b0 dashed;
+}
+
+.nav-link,
+.navbar-brand {
+  font-family: "Comfortaa", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
